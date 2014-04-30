@@ -1,3 +1,3 @@
 Solitaire_Encryption
 ====================
-Please read the MS Word doc. =]
+Please read the MS Word docx. =]
