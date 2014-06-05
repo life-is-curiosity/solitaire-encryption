@@ -266,11 +266,6 @@ Learning More
 
 I recommend my own book, Applied Cryptography (John Wiley & Sons, 1996), as a good place to start. Then read The Codebreakers, by David Kahn (Scribner, 1996). After that, there are several books on computer cryptography, and a few others on manual cryptography. It's a fun field; good luck.
 
-Downloads
+Reference :
 
-test vectors - Perl - Ada - C (#1) - C (#2) - C (#3) - C++ - C++ GUI - C# - Clojure - Delphi (#1) - Delphi (#2) - Erlang - Forth (#1) - Forth (#2) - Java - Javascript - K - Palm OS - Pascal - Perl - Perl CGI - Python (#1) - Python (#2) - Ruby - TCL
-Note: only the Perl implementation has been tested by Counterpane.
-
-Photo of Bruce Schneier by Per Ervland.
-
-Schneier on Security is a personal website. Opinions expressed are not necessarily those of Co3 Systems, Inc..
+HTTPS://WWW.SCHNEIER.COM/SOLITAIRE.HTML
