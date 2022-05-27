@@ -1,6 +1,5 @@
 Solitaire_Encryption
 ====================
-User guide    : Please read the MS Word docx. =]
 
 Introduction  : 
 
